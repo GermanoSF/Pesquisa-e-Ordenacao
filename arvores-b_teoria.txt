@@ -1,0 +1,2 @@
+Funcionamento_Função -> Dados são armazenados em nós (que podem ser listas) de forma balanceada, desse modo, além de otimizar a busca de forma logarítimica,
+cada nó pode armazenar múltiplos elementos (ou páginas de dados), o que permite otimizar o acesso à memória evitando sobrecarga de RAM.
